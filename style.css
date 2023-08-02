@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  
+  
+font-family: 'Zeyada', cursive;
+  font-size: 35px;
+    background-color: #066f42;
+    text-align: center;
+  
+}
+
+img {
+    width: 300px;
+  justify-content: space-evenly;
+}
